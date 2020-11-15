@@ -23,7 +23,7 @@ h1{
   font-style: oblique;
   border-right: 5px solid tan;
   border-left: 5px solid tan;
-  padding-left: 15%;
+  padding-left: 20%;
   border-radius: 10%;
   margin-left: 10%;
   margin-right: 10%;
@@ -34,7 +34,7 @@ h3{
 }
 
 p{
-  margin: 7%;
+  margin: 10%;
 }
 
 
