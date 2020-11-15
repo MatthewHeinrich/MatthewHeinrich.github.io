@@ -1,7 +1,7 @@
 body{
   background-image: url(https://cdn.pixabay.com/photo/2014/04/07/20/27/texture-318907_1280.jpg);
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
+  margin: 10% 15%;
   color: white;
 }
 
@@ -20,11 +20,10 @@ h4{
 }
 
 h1{
-  color:;
   font-style: oblique;
   border-right: 5px solid tan;
   border-left: 5px solid tan;
-  padding-left: 20%;
+  padding-left: 15%;
   border-radius: 10%;
   margin-left: 10%;
   margin-right: 10%;
