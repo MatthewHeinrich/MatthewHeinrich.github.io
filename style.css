@@ -1,1 +1,41 @@
+body{
+  background-color: #444444;
+  color: #dddddd;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10% 20%;
+}
+
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  background-color: rgba(0,0,0, 0.15);
+}
+
+h4{
+  border-bottom: 1px dotted white;
+  font-style: oblique;
+  border-radius: 5%
+}
+
+h1{
+  color: ;
+  font-style: oblique;
+  border-right: 5px solid tan;
+  border-left: 5px solid tan;
+  padding-left: 15%;
+  border-radius: 10%;
+}
+
+h3{
+  color:tan;
+}
+
+p{
+  margin: 7%;
+}
+
+
+
 
