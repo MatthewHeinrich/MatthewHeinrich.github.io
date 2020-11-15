@@ -1,8 +1,8 @@
 body{
-  background-color: #444444;
-  color: #dddddd;
+  background-image: url(https://cdn.pixabay.com/photo/2014/04/07/20/27/texture-318907_1280.jpg);
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10% 20%;
+  margin: 10% 10%;
+  color: white;
 }
 
 .exp-header{
@@ -14,18 +14,20 @@ body{
 }
 
 h4{
-  border-bottom: 1px dotted white;
+  border-bottom: 2px dotted white;
   font-style: oblique;
   border-radius: 5%
 }
 
 h1{
-  color: ;
+  color:;
   font-style: oblique;
   border-right: 5px solid tan;
   border-left: 5px solid tan;
-  padding-left: 15%;
+  padding-left: 13%;
   border-radius: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 h3{
@@ -35,7 +37,6 @@ h3{
 p{
   margin: 7%;
 }
-
 
 
 
