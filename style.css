@@ -1,5 +1,13 @@
-@keyframes zoom {     0% {         transform: scale(0);     }     100% {         transform: scale(100%);     } }
 
+
+@keyframes zoom {
+   0% {
+              transform: scale(0);
+  }
+  100% {
+             transform: scale(100%);
+  }
+}
 body{
   background-image: url(https://cdn.pixabay.com/photo/2014/04/07/20/27/texture-318907_1280.jpg);
   font-family: Arial, Helvetica, sans-serif;
